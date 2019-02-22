@@ -1,0 +1,11 @@
+ h1
+{
+  text-align: center;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+.btn-default {
+  float: right;
+  border: 1px solid black;
+  border-radius: 5px;  
+}
